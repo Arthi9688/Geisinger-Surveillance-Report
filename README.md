@@ -1,6 +1,6 @@
 # Geisinger-Surveillance-Report
 
-This Power BI report was developed to support **Medical Surveillance for Hazardous Drug Handling** at Geisinger, as part of a strategic initiative to monitor employee health and exposure risk.
+This Power BI report was developed to support **Medical Surveillance for Hazardous Drug Handling** at Geisinger(sample), as part of a strategic initiative to monitor employee health and exposure risk.
 
 ## 📊 Project Overview
 
