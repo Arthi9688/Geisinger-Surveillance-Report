@@ -36,5 +36,6 @@ To streamline monitoring of hazardous drug exposure and medical surveillance pro
 
 This report is in a completed and review-ready state. Further enhancements may include integration with live EMR data and automated alerts for non-compliance.
 
----
+---![Powerbi](https://github.com/user-attachments/assets/e7e106ed-1d92-4784-b7e1-7ce827b786eb)
+
 
